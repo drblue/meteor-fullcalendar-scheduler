@@ -1,6 +1,6 @@
 Package.describe({
     name: 'drblue:fullcalendar',
-    summary: "Full-sized drag & drop event calendar (jQuery plugin)",
+    summary: "Meteor-package of FullCalendar.io with Scheduler-plugin",
     version: "2.4.0",
     git: "https://github.com/drblue/meteor-fullcalendar-scheduler.git"
 });
