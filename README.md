@@ -1,4 +1,4 @@
-### [FullCalendar](http://fullcalendar.io/) JQuery plugin with premium-plugin Scheduler v1.0, packaged for Meteor v1.0 ###
+### [FullCalendar](http://fullcalendar.io/) v2.5.0-beta2 JQuery plugin with premium-plugin Scheduler v1.1, packaged for Meteor v1.0 ###
 
 Fork based on the awesome work of [rzymek](https://github.com/rzymek/) and his repo [rzymek/meteor-fullcalendar/](https://github.com/rzymek/meteor-fullcalendar/).
 
