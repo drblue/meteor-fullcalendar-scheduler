@@ -1,7 +1,7 @@
 Package.describe({
     name: 'drblue:fullcalendar',
     summary: "Meteor-package of FullCalendar.io with Scheduler-plugin",
-    version: "2.4.0",
+    version: "2.5.0-beta2",
     git: "https://github.com/drblue/meteor-fullcalendar-scheduler.git"
 });
 

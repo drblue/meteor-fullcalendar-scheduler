@@ -1,3 +1,6 @@
 [submodule "fullcalendar"]
 	path = fullcalendar
 	url = https://github.com/arshaw/fullcalendar.git
+[submodule "fullcalendar-scheduler"]
+	path = fullcalendar-scheduler
+	url = https://github.com/fullcalendar/fullcalendar-scheduler.git
