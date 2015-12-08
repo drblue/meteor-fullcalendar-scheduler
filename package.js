@@ -15,8 +15,8 @@ Package.onUse(function(api) {
     api.addFiles([
         'fullcalendar/dist/fullcalendar.js',
         'fullcalendar/dist/fullcalendar.css',
-        'fullcalendar-scheduler/scheduler.css',
-        'fullcalendar-scheduler/scheduler.js',
+        'fullcalendar-scheduler/dist/scheduler.css',
+        'fullcalendar-scheduler/dist/scheduler.js',
         'fullcalendar/dist/lang-all.js',
         'fullcalendar/dist/gcal.js',
         'template.html',
