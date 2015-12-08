@@ -9,7 +9,7 @@ echo ""
 echo "Checking out latest release of fullcalendar.."
 cd "`dirname $0`/fullcalendar"
 if [[ -z "$1" ]];then
-  VER=`git tag | tail -n1 | sed 's/^v//'`
+  VER=`git tag | grep -v '-' | tail -n1 | sed 's/^v//'`
 else
   VER="$1"
 fi
@@ -20,7 +20,7 @@ echo ""
 echo "Checking out latest release of fullcalendar-scheduler.."
 cd "../`dirname $0`/fullcalendar-scheduler"
 if [[ -z "$1" ]];then
-  VER=`git tag | tail -n1 | sed 's/^v//'`
+  VER=`git tag | grep -v '-' | tail -n1 | sed 's/^v//'`
 else
   VER="$1"
 fi
